@@ -1,24 +1,18 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Lucky Asian Grocery - Backend
 
-Things you may want to cover:
+Please see the link for the live website.
+[link](https://floating-eyrie-21279.herokuapp.com)
 
-* Ruby version
+# Features
+  - User login and logout system
+  - Functional Sign up page
+  - User can edit info when login
+  - Functional add to cart page
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Tech
+  - [Ruby] 
+  - [rails] 
+  - [HTML] 
+  - [CSS]
